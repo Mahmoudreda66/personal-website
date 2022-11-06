@@ -12,7 +12,7 @@
                         </div>
                     </h1><br>
                     <p>Download My CV Now!</p>
-                    <a href="../public/assets/pdf/Mahmoud_Reda.pdf" download>
+                    <a :href="filePath">
                         <button class="btn btn-primary">
                             <i class="fas fa-download"></i> Download Full CV
                         </button>
@@ -25,3 +25,13 @@
         </div>
     </section>
 </template>
+
+<script>
+export default{
+    data(){
+        return {
+            filePath: location.origin + '/Mahmoud_Reda.pdf'
+        }
+    }
+}
+</script>

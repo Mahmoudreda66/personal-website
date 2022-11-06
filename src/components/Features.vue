@@ -25,7 +25,7 @@
                 <div class="col-md-4 col-sm-6 col-12 mb-3 mb-md-0 box">
                     <div class="content">
                         <img src="../../public/assets/png/Php_document.png">
-                        <h4 class="mb-0">Good At Mvc</h4>
+                        <h4 class="mb-0">Excellent At PHP Laravel</h4>
                     </div>
                 </div>
             </div>
