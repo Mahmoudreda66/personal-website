@@ -8,6 +8,10 @@
   <div class="container">
     <hr>
   </div>
+  <work-history-vue></work-history-vue>
+  <div class="container">
+    <hr>
+  </div>
   <projects-vue></projects-vue>
   <div class="container">
     <hr>
@@ -30,6 +34,7 @@ import HeaderVue from './components/Header.vue';
 import FeaturesVue from './components/Features.vue';
 import SkillsVue from './components/Skills.vue';
 import downloadCvVue from './components/downloadCV.vue';
+import WorkHistoryVue from './components/WorkHistory.vue';
 import ProjectsVue from './components/Projects.vue';
 import ContactVue from './components/Contact.vue';
 import PersonalInfoVue from './components/PersonalInfo.vue';
@@ -42,6 +47,7 @@ export default {
     FeaturesVue,
     SkillsVue,
     downloadCvVue,
+    WorkHistoryVue,
     ProjectsVue,
     ContactVue,
     PersonalInfoVue,
