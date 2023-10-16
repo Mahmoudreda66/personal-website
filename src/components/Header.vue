@@ -37,7 +37,7 @@
         </nav>
         <div style="margin-top: 100px;" class="animate__animated animate__backInLeft">
             <h1>Mahmoud Reda | <span>Backend Developer</span></h1>
-            <p style="text-transform: capitalize; margin-bottom: 40px;">
+            <p style="text-transform: capitalize; margin-bottom: 40px; font-size: 20px;">
                 <span>i'm PHP developer, works with <i class="fab fa-laravel" style="color: #ff2718;"></i>
                     laravel</span><br><br>
                 <span>fast learner, hard worker, efficient</span>
@@ -118,7 +118,8 @@ header {
     }
 
     h1 {
-        font-size: 40px;
+        font-size: 50px;
+        font-weight: bold;
         margin: 20px 0px;
 
         span {
