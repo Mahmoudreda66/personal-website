@@ -78,7 +78,7 @@
 
 <style lang="scss" scoped>
 header {
-    background-image: url('../../public/assets/jpg/header.jpg');
+    background-image: url('https://images.pexels.com/photos/879109/pexels-photo-879109.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;

@@ -13,6 +13,81 @@
             <div class="row">
                 <div class="col-lg-4 col-md-6 col-12 mb-3">
                     <div class="box border rounded">
+                        <img src="../../public/assets/jpg/mrz.png" alt="project1" class="img-thumbnail">
+                        <div class="p-3">
+                            <h5 class="text-center fw-bold">MRZ POS</h5>
+                            <p>I Worked As FullStack In Simple POS System For Women-Clothes Shop, It Saves Orders, Clients Data, Prints Invoices And More!</p>
+                            <div class="tags">
+                                <span>HTML</span>
+                                <span>Css</span>
+                                <span>Javscript</span>
+                                <span>Bootstrap</span>
+                                <span>Vuejs</span>
+                                <span>PHP</span>
+                                <span>Mysql</span>
+                                <span>Laravel</span>
+                            </div>
+                            <div class="text-center">
+                                <a target="_blank">
+                                    <button class="btn btn-primary" disabled>
+                                        <i class="fas fa-eye"></i> Show
+                                    </button>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-12 mb-3">
+                    <div class="box border rounded">
+                        <img src="../../public/assets/jpg/doctors.png" alt="project1" class="img-thumbnail">
+                        <div class="p-3">
+                            <h5 class="text-center fw-bold">Smart Center - Clinics</h5>
+                            <p>I Worked As FullStack In Clinics Management System, It Manages Patients And Saves The Contact Between Patient And Clinic, It Uses Barcode Technology To Interact Between Them</p>
+                            <div class="tags">
+                                <span>HTML</span>
+                                <span>Css</span>
+                                <span>Javscript</span>
+                                <span>Bootstrap</span>
+                                <span>Vuejs</span>
+                                <span>PHP</span>
+                                <span>Laravel</span>
+                            </div>
+                            <div class="text-center">
+                                <a>
+                                    <button class="btn btn-primary" disabled>
+                                        <i class="fas fa-eye"></i> Show
+                                    </button>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-12 mb-3">
+                    <div class="box border rounded">
+                        <img src="../../public/assets/jpg/jalal.png" alt="project1" class="img-thumbnail">
+                        <div class="p-3">
+                            <h5 class="text-center fw-bold">Landing Page</h5>
+                            <p>I Worked As Frontend Developer To Design Landing Page For Jalal Perfumes</p>
+                            <div class="tags">
+                                <span>HTML</span>
+                                <span>Css</span>
+                                <span>Bootstrap</span>
+                                <span>PHP</span>
+                            </div>
+                            <div class="text-center">
+                                <a href="https://jalal.sa.com" target="_blank">
+                                    <button class="btn btn-primary">
+                                        <i class="fas fa-eye"></i> Show
+                                    </button>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-4 col-md-6 col-12 mb-3">
+                    <div class="box border rounded">
                         <img src="../../public/assets/jpg/smart_Center.jpg" alt="project1" class="img-thumbnail">
                         <div class="p-3">
                             <h5 class="text-center fw-bold">Smart Center System</h5>
